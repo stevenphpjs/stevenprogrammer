@@ -1,3 +1,4 @@
 rencana
 
 membuat hello world
+dan buat allfalon
